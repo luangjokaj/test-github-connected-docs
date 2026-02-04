@@ -1,0 +1,12 @@
+{
+  "name": "test?github=connected-docs",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "doccupine dev",
+    "build": "doccupine build"
+  },
+  "devDependencies": {
+    "doccupine": "latest"
+  }
+}

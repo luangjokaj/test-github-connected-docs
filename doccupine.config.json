@@ -1,0 +1,25 @@
+{
+  "name": "test?github=connected",
+  "version": "1.0.0",
+  "docsDir": "docs",
+  "theme": "default",
+  "navigation": [
+    {
+      "title": "Getting Started",
+      "path": "/getting-started"
+    },
+    {
+      "title": "Configuration",
+      "path": "/configuration"
+    },
+    {
+      "title": "API",
+      "children": [
+        {
+          "title": "Overview",
+          "path": "/api/overview"
+        }
+      ]
+    }
+  ]
+}
